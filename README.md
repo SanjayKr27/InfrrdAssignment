@@ -1,7 +1,7 @@
 # InfrrdAssignment
 Assignment for iOS developer 
 
-Desvription- 
+Description- 
 
 There are a number of pirate ships on the sea. Each of these ships has a certain amount of loot. After each day, if any ship has more loot than the ship on its left, the ship is destroyed by the ship to its left.
 
